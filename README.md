@@ -1,7 +1,7 @@
 # Gengjiang Liu
 
 Tel: 18810068516  E-mail: lgj19@mails.tsinghua.edu.cn                                              
-![](https://cloud.tsinghua.edu.cn/#my-libs/lib/771179da-7ae6-4364-8029-2524732eb8c4)
+![](https://cloud.tsinghua.edu.cn/smart-link/2441b080-9301-439f-ac5a-04e46e1fef3a/)
 
 ## Education
 
