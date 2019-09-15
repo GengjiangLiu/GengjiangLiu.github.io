@@ -1,7 +1,10 @@
 # Gengjiang Liu
-Tel: 18810068516  E-mail: lgj19@mails.tsinghua.edu.cn
+
+Tel: 18810068516  E-mail: lgj19@mails.tsinghua.edu.cn                                              ![](C:\Users\pc\Desktop\重庆.jpg)
 
 ## Education
+
+---
 
 **WHUHAN UNIVERSITY**                                                                                            						Sep. 2015-Jul. 2019
 
@@ -10,6 +13,8 @@ Tel: 18810068516  E-mail: lgj19@mails.tsinghua.edu.cn
 - **Academics**: Overall GPA: 3.51/4.00
 
 ## **RESEARCH EXPERIENCE**
+
+---
 
 **Stem Cell and lncRNA**                                                                                                                 Aug. 2017-Jun. 2018
 
@@ -36,6 +41,8 @@ Tel: 18810068516  E-mail: lgj19@mails.tsinghua.edu.cn
 
 
 ## SKILLS
+
+---
 
 - **Cell Biology Experiment**: Cell culture, Transfection and Immunostaining, FACS
 
